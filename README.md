@@ -1,2 +1,2 @@
 # Travis CI demo
-[![Build Status](https://travis-ci.org/pvtyuan/travis-demo.svg?branch=master)](https://travis-ci.org/pvtyuan/travis-demo)
+[![Build Status](https://travis-ci.org/pvtyuan/travis-demo.svg?branch=master)](https://travis-ci.org/pvtyuan/travis-demo)[![Dependency Status](https://www.versioneye.com/user/projects/59bb75f50fb24f0032ae7df9/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/59bb75f50fb24f0032ae7df9)
